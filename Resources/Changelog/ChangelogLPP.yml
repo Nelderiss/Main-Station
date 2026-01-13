@@ -1,8 +1,25 @@
-﻿Entries:
+Entries:
 - author: Evgencheg
   changes:
-  - message: Начало начал!
-    type: Add
+    - message: Начало начал!
+      type: Add
   id: 5605
   time: '2026-01-13T01:01:01.0000000+00:00'
   url: https://api.github.com/repos/Lost-Paradise-Project/Main-Station/pull/1
+- author: Evgencheg
+  changes:
+    - type: Add
+      message: Добавлены ссылки при заходе в игру и в ESC меню
+    - type: Fix
+      message: Исправил сортировку в панели выдачи времени
+    - type: Remove
+      message: Удалил маркинги нижнего белья
+    - type: Fix
+      message: Исправил переводы
+    - type: Tweak
+      message: Настроил конфиги, пресеты игры и режим секрета
+    - type: Tweak
+      message: Вернул вульпу в выбор рас
+  id: 5606
+  time: '2026-01-13T22:32:13.0000000+00:00'
+  url: https://github.com/Lost-Paradise-Project/Main-Station/pull/5
